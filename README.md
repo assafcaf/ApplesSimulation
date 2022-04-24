@@ -1,4 +1,4 @@
-# The Commons Game
+# The Commons Game by Danfoa(https://github.com/Danfoa)
 
 This repository presents a custom implementation of game in the paper 
 [A multi-agent reinforcement learning model of common-pool resource appropriation](http://papers.nips.cc/paper/6955-a-multi-agent-reinforcement-learning-model-of-common-pool-resource-appropriation)
@@ -46,7 +46,7 @@ Additionally, if you want to go ahead and see the code functionality first, you 
 
 ## Acknowledgements 
 This repository is based on the code of: 
-
+Copyright belongs to - https://github.com/Danfoa
 *    [sequential_social_dilemma_games](https://github.com/eugenevinitsky/sequential_social_dilemma_games)
 *    [TensorFlow2.0-for-Deep-Reinforcement-Learning](https://github.com/Huixxi/TensorFlow2.0-for-Deep-Reinforcement-Learning)
 
