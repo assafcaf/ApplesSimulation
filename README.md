@@ -45,8 +45,10 @@ Additionally, if you want to go ahead and see the code functionality first, you 
 
 
 ## Acknowledgements 
-This repository is based on the code of: 
 Copyright belongs to - https://github.com/Danfoa
+
+This repository is based on the code of: 
+
 *    [sequential_social_dilemma_games](https://github.com/eugenevinitsky/sequential_social_dilemma_games)
 *    [TensorFlow2.0-for-Deep-Reinforcement-Learning](https://github.com/Huixxi/TensorFlow2.0-for-Deep-Reinforcement-Learning)
 
